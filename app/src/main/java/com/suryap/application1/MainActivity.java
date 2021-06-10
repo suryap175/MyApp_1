@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         sub=findViewById(R.id.sub);
         mul=findViewById(R.id.mul);
         div=findViewById(R.id.div);
-        res=findViewById(R.id.res);
+        res=findViewById(R.id.text);
         add.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
